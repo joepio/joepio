@@ -12,6 +12,13 @@ I work at [Ontola.io](https://ontola.io), a tech start-up from the Netherlands t
 
 - Check out the [Ontola.io Blog](https://ontola.io/blog)!
 
+## Things I'm interested in
+
+- Everything linked data or e-democracy (and even better - the combination of both!)
+- I'm learning Rust and I'm loving it
+- Tech aiming to bring control of data back to the people
+- Standardization of data exchange
+
 ## Get in touch
 
 Send me an email: joep [at] ontola.io 
