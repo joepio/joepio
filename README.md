@@ -6,7 +6,7 @@ I work at [Ontola.io](https://ontola.io), a tech start-up from the Netherlands t
 - Together with various organisations, we've created [OpenBesluitvorming.nl](openbesluitvorming.nl/) (Dutch), a search engine for governmental meeting documents. Over 140+ Dutch governments have joined so far. It extracts meeting data from various sources, standardizes it makes it available as linked open data. Although we have some cool apps who are using the data, we're primarily interested in using the data in Argu, so we can create the missing link between online citizen engagement and formal decision making.
 - With [Dexes](https://dexes.nl), three organizations have teamed up to build an open data marketplace - powered by linked data.
 - We're working on [Solid](https://solid.mit.edu/), which is a standard for decentralizing the web using linked data. We're developing a (soon to be open source) Solid Pod called the DexPod.
-- I'm working on a specification for modeling and exchanging data called [Atomic Data](https://docs.atomicdata.dev). 
+- I'm working on a specification for modeling and exchanging data called [Atomic Data](https://docs.atomicdata.dev). I'm also working on an initial Atomic Data Server, CLI  and Library [implementation written in Rust](https://github.com/joepio/atomic).
 
 ## Articles I wrote
 
