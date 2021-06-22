@@ -13,7 +13,7 @@
 ## Things I'm interested in
 
 - Everything linked data or e-democracy (and even better - the combination of both!)
-- Tech aiming to bring control of data back to the people
+- Tech aiming to bring control of data back to the people (like [Atomic Data](atomicdata.dev/) and [Solid](https://solidproject.org/))
 - Standardization of data exchange (things like ipfs)
 
 ## Get in touch
