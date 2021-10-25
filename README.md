@@ -1,4 +1,4 @@
-### Hi, I'm Joep Meindertsma!
+# Hi, I'm Joep Meindertsma!
 
 - I co-founded [Ontola.io](https://ontola.io), a tech start-up from the Netherlands that focuses on Linked Data and decentralizing the web. I write things about the linked data web on [our blog](https://ontola.io/blog).
 - I'm the CEO of an e-democracy platform called [Argu](https://argu.co), which aims to get people involved in decision making. We help governments reach their citizens by providing an easy to use environment where people can share their ideas, discuss, vote on issues and make decisions together.
