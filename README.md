@@ -8,7 +8,7 @@
 
 - Interoperability, standardizing data exchange
 - Tech aiming to bring control of data back to the people (like [Atomic Data](https://atomicdata.dev/) and [Solid](https://solidproject.org/))
-- E-democracy, using online tools to help organization make better decisions
+- E-democracy, using online tools to help groups of people make better decisions
 - Music production, synthesizers, 3d modelling
 - Rust, WASM, plug-in systems
 
