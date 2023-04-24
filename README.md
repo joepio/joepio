@@ -11,6 +11,7 @@
 - E-democracy, using online tools to help groups of people make better decisions
 - Music production, synthesizers, 3d modelling
 - Rust, WASM, plug-in systems
+- AI alignment
 
 ## Get in touch
 
