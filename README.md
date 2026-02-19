@@ -9,6 +9,7 @@
 
 - Interoperability, standardizing data exchange, and tech that gives people more data ownership (like [Atomic Data](https://atomicdata.dev/) and [Solid](https://solidproject.org/))
 - Local-first, CRDT, Event Sourcing
+- Mesh protocols
 - AI & AI safety
 - Rust, WASM, plug-in systems
 - Front-end development (React, Sveltekit)
